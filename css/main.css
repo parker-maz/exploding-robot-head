@@ -15,17 +15,14 @@ body {
 
 .banner {
   z-index: 0;
-  background-color: #2b3851;
   position: relative;
-  text-align: center;
-  height: 240px;
-  display: flex;
-  justify-content: center;
+  background-color: #2b3851;
 }
 
 .robot {
   width: 320px;
   height: 240px;
+  display: flex;
 }
 
 .robot-body {
@@ -56,9 +53,11 @@ body {
 }
 
 .robot:hover > .robot-head-right {
-
+  position: absolute;
+  left:60%;
 }
 
 .robot:hover > .robot-head-left {
-
+  position: absolute;
+  left:60%;
 }
