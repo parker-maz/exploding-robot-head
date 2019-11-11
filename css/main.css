@@ -54,10 +54,10 @@ body {
 
 .robot:hover > .robot-head-right {
   position: absolute;
-  left:60%;
+  left: 60%;
 }
 
 .robot:hover > .robot-head-left {
   position: absolute;
-  left:60%;
+  left: 40%;
 }
