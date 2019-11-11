@@ -33,3 +33,11 @@ body {
 .robot-head-left {
   width: 125px;
 }
+
+.robot:hover > .robot-head-right {
+
+}
+
+.robot:hover > .robot-head-left {
+
+}
