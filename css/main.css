@@ -49,12 +49,12 @@ body {
 }
 
 .robot-head-left {
-  left: 21em;
+  right: 20em;
   top: 1em;
 }
 
 .robot-head-right {
-  right: 21em;
+  left: 20em;
   top: 1em;
 }
 
