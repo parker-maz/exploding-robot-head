@@ -60,10 +60,12 @@ body {
 
 .robot:hover > .robot-head-left {
   left: 16rem;
+  bottom: 8em;
 }
 
 .robot:hover > .robot-head-right {
   left: 32.5rem;
+  bottom: 8em;
 }
 
 .robot:hover > .robot-brain {
