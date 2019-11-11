@@ -56,12 +56,12 @@ body {
   top: 1em;
 }
 
-.robot:hover > .robot-head-right {
-  position: absolute;
-  left: 55%;
-}
-
 .robot:hover > .robot-head-left {
   position: absolute;
   right: 55%;
+}
+
+.robot:hover > .robot-head-right {
+  position: absolute;
+  left: 55%;
 }
