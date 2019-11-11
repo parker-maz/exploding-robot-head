@@ -52,12 +52,8 @@ body {
   transform: translateX(-50%);
 }
 
-.robot:hover > .robot-head-right {
+.robot:hover > .robot-head-right,
+.robot-head-left {
   position: absolute;
   left: 60%;
-}
-
-.robot:hover > .robot-head-left {
-  position: absolute;
-  left: 40%;
 }
