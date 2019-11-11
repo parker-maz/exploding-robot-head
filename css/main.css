@@ -49,25 +49,25 @@ body {
 }
 
 .robot-head-left {
-  right: 20em;
+  right: 50%;
   top: 1em;
 }
 
 .robot-head-right {
-  left: 20em;
+  left: 50%;
   top: 1em;
 }
 
-.robot:hover > .robot-head-left {
-  left: 16rem;
+.robot:hover>.robot-head-left {
+  left: 38%;
   bottom: 8em;
 }
 
-.robot:hover > .robot-head-right {
-  left: 32.5rem;
+.robot:hover>.robot-head-right {
+  left: 54%;
   bottom: 8em;
 }
 
-.robot:hover > .robot-brain {
+.robot:hover>.robot-brain {
   top: 2rem;
 }
