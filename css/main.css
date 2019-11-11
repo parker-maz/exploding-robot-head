@@ -65,3 +65,8 @@ body {
   position: absolute;
   left: 55%;
 }
+
+.robot:hover > .robot-brain {
+  position: absolute;
+  top: 3em;
+}
